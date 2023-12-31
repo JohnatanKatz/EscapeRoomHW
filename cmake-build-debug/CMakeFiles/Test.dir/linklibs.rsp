@@ -1,0 +1,1 @@
+ -L"C:/Users/John/Dropbox/MTMHWF~1/CHW3~1/K'SFIL~1/MTMex3/libmtm/win64" -Wl,-Bstatic -lmtm -Wl,-Bdynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
